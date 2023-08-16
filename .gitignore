@@ -1,0 +1,26 @@
+.bash_history
+.gitconfig
+.keras/
+.viminfo
+.vscode/
+3D Objects/
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT
+NTUSER.DAT{e44d1214-25a9-11ee-b1b9-ec4306f124ca}.TM.blf
+NTUSER.DAT{e44d1214-25a9-11ee-b1b9-ec4306f124ca}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{e44d1214-25a9-11ee-b1b9-ec4306f124ca}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini

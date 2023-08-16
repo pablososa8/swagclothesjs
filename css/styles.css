@@ -1,0 +1,54 @@
+/* Estilos para el contenedor principal */
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+/* Estilos para el título "Carrito de Compras" */
+.carrito-de-compras{
+    background-color: #007bff;
+    padding: 5px 10px;
+    border: black ridge 1px;
+    padding: 3px 3px 3px 3px;
+}
+
+/* Estilos para la barra de búsqueda y botón de búsqueda */
+#buscarProducto {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#botonBuscar {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Estilos para el contenedor de resultados de búsqueda */
+#resultadoBusqueda {
+    margin-top: 10px;
+}
+
+/* Estilos para las tarjetas de productos */
+.producto-card {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+/* Estilos para la imagen del producto en la tarjeta */
+.producto-imagen img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-right: 10px;
+}
+
+/* Estilos para la información del producto en la tarjeta */
+.producto-info {
+    flex-grow: 1;
+}
+
